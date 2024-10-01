@@ -9,7 +9,7 @@ A certified full-stack web developer with a background in mechanical engineering
 
 ## 🏆 Key Projects
 - [Veterinary Chrome Extension](https://github.com/meeksdev/autofill-extension): A Chrome extension for veterinary practices that gathers information from client form submissions and automates various administrative tasks.
-- [Embedded Firearm System]: A high-performance embedded system and circuitry for firearms using embedded C/C++ and ARM microcontrollers, achieving sub-second response times.
+- [Embedded Firearm System](https://github.com/meeksdev/wraithworks-mcu): A high-performance embedded system and circuitry for firearms using embedded C/C++ and ARM microcontrollers, achieving sub-second response times.
 - [logan-meeks-website-3](https://github.com/meeksdev/logan-meeks-website-3): My portfolio website using Next.js, TailwindCSS, and React components.
 
 ## 🔭 Currently Working On
