@@ -7,7 +7,7 @@ A certified full-stack web developer with a background in mechanical engineering
 - **Tools**: Git, Arduino, Solidworks
 - **Other**: Embedded Systems
 
-## Key Projects
+## 🏆 Key Projects
 - [Veterinary Chrome Extension](https://github.com/meeksdev/autofill-extension): A Chrome extension for veterinary practices that gathers information from client form submissions and automates various administrative tasks.
 - [logan-meeks-website-3](https://github.com/meeksdev/logan-meeks-website-3): My portfolio website using Next.js, TailwindCSS, and React components.
 
