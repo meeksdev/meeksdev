@@ -1,5 +1,5 @@
 # Hi, I'm Logan Meeks 👋
-A certified full-stack web developer with a background in mechanical engineering and 4 years of manufacturing experience. Adept at delivering software solutions for clients under my company, Logan Meeks LLC, specializing in web development.
+A certified full-stack web developer with a background in mechanical engineering and 4 years of manufacturing experience. Adept at delivering software solutions for clients under my company, [Logan Meeks LLC](https://meeksdev.com), specializing in web development.
 
 ## 🛠️ Skills
 - **Languages**: JavaScript, C++, C#, HTML, CSS, VBA, Python
