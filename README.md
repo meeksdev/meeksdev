@@ -1,11 +1,11 @@
-# Hi, I'm Logan Meeks 👋
-A certified full-stack web developer with a background in mechanical engineering and 4 years of manufacturing experience. Adept at delivering software solutions for clients under my company, [Logan Meeks LLC](https://meeksdev.com), specializing in web development.
+# Hi, I'm Logan 👋
+A certified full-stack web developer and mechanical engineer delivering high-performance software and hardware solutions through [Logan Meeks LLC](https://meeksdev.com). I specialize in web development and embedded systems with 4 years of manufacturing expertise.
 
 ## 🛠️ Skills
-- **Languages**: JavaScript, C++, C#, HTML, CSS, VBA, Python
-- **Frameworks**: React, Next.js, Tailwind CSS, ShadCN, Node.js, Express.js, PostgreSQL
-- **Tools**: Git, Arduino, Solidworks
-- **Other**: Embedded Systems
+
+| **Languages** | **Frameworks** | **Tools** |
+| ------------- | -------------- | --------- |
+| ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Static Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Static Badge](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Static Badge](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui) ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![Static Badge](https://img.shields.io/badge/Express-000000?logo=express) ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github) ![Static Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino) |
 
 ## 🏆 Key Projects
 - [Veterinary Chrome Extension](https://github.com/meeksdev/autofill-extension): A Chrome extension for veterinary practices that gathers information from client form submissions and automates various administrative tasks.
